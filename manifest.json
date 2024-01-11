@@ -37,8 +37,8 @@
   }
  ],
  "name": "Colégio Cenecista São João Batista",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
  "theme_color": "#F3F3F4",
- "start_url": "index.htm?installed=true",
  "background_color": "#F3F3F4"
 }
